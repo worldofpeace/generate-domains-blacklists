@@ -12,6 +12,7 @@ invalid
 j.mp
 l-msedge.net
 lan
+liveinternet.ru
 localdomain
 microsoft.com
 msedge.net
@@ -23,8 +24,3 @@ spotify.com
 tagcommander.com
 tracker.debian.org
 windows.net
-tracker.*
-na48.salesforce.com
-na48.*.
-*.force.com
-
