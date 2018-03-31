@@ -36,3 +36,5 @@ ibpxl.com
 # ditto for that one
 
 internetbrands.com
+
+device-metrics-us.amazon.com
