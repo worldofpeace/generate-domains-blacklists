@@ -1,5 +1,4 @@
 a-msedge.net
-amazon.com
 appsflyer.com
 azurewebsites.net
 cdnetworks.com
@@ -9,18 +8,13 @@ elasticbeanstalk.com
 github.com
 github.io
 invalid
-j.mp
-l-msedge.net
 lan
 liveinternet.ru
 localdomain
-microsoft.com
 msedge.net
 nsatc.net
 ovh.net
-pusher.com
-pusherapp.com
-spotify.com
-tagcommander.com
 tracker.*
-windows.net
+*.goodolddownloads.com
+*.force.com
+llnwd.net

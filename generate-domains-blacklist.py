@@ -1,4 +1,5 @@
-#! /usr/bin/env python
+#! /usr/bin/env nix-shell
+#! nix-shell -p python2 -i python
 
 # run with python generate-domains-blacklist.py > list.txt.tmp && mv -f list.txt.tmp list
 

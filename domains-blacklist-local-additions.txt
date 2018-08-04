@@ -11,7 +11,6 @@ oascentral.*
 stats.*
 tag.*
 telemetry.*
-tracker.*
 
 # My Macbook constantly sends a lot of useless queries to *.local,
 # so I block them. *.lan is apparently another common one, and
@@ -38,3 +37,9 @@ ibpxl.com
 internetbrands.com
 
 device-metrics-us.amazon.com
+
+# amazon fire updates
+*.amzdigital-a.akamaihd.net
+*.amzdigitaldownloads.edgesuite.net
+*.softwareupdates.amazon.com
+updates.amazon.com
